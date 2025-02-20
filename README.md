@@ -30,16 +30,10 @@ Compared free vs paid apps and identified key insights.
 
 Technology: Python, Pandas, Matplotlib, Seaborn.
 
-### Education
+## Education
 Bachelor's Degree in Computer Applications (BCA)
 
 St. Joseph's First Grade College
 
-### Contact
-LinkedIn: Your LinkedIn Profile
-
-Portfolio: Your Portfolio Link
-
-GitHub: Your GitHub Profile
-
+## Contact
 Email: sujeetsujee143@gmail.com
