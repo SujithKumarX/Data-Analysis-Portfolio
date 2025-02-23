@@ -12,8 +12,6 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 ### Zomato Dataset Analysis
 Goal: Analyze the Zomato dataset to understand restaurant trends, pricing, and customer reviews.
 
-Code: 
-
 Description:
 Cleaned and filtered 50,000-row Zomato dataset.
 Analyzed customer preferences, ratings, and order patterns.
@@ -24,6 +22,8 @@ Technology: Python, Pandas, Seaborn, Matplotlib.
 ### Google Play Store Dataset Analysis
 
 Goal: Analyze Google Play Store app data to compare free vs paid apps, most installed categories, and rating distributions.
+
+Code: [IN]_(#INstaf)_
 
 Description:
 Cleaned dataset and removed duplicates.
