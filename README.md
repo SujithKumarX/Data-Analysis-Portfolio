@@ -23,7 +23,7 @@ Technology: Python, Pandas, Seaborn, Matplotlib.
 
 Goal: Analyze Google Play Store app data to compare free vs paid apps, most installed categories, and rating distributions.
 
-Code: [Google PlayStore Analysis](https://github.com/yourusername/your-repository/blob/main/notebook_preview.png)
+Code: [Google PlayStore Analysis](https://github.com/SujithKumarX/Data-Analysis-Portfolio/blob/main/Google_Play_Store.ipynb)
 
 Description:
 Cleaned dataset and removed duplicates.
