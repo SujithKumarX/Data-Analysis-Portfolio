@@ -31,7 +31,7 @@ Compared free vs paid apps and identified key insights.
 Technology: Python, Pandas, Matplotlib, Seaborn.
 
 ## Education
-Bachelor's Degree in Computer Applications (BCA)
+Bachelor's Degree in Computer Applications (BCA), Nov 2021 - June 2024
 
 St. Joseph's First Grade College
 
